@@ -1,0 +1,3 @@
+[submodule "share/wordpress"]
+	path = share/wordpress
+	url = https://github.com/dmgudeman/wordpress.git
