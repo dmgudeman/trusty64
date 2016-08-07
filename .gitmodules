@@ -2,8 +2,4 @@
 	path = share/wordpress
 	url = https://github.com/dmgudeman/wordpress.git
 	branch = master
-[submodule "share/pomona"]
-	path = share/pomona
-	url = https://github.com/dmgudeman/pomona.git
-        branch = master
 
