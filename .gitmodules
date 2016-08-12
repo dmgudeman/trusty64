@@ -1,7 +1,7 @@
-[submodule "share/wordpress"]
-	path = share/wordpress
-	url = https://github.com/dmgudeman/wordpress.git
-	branch = master
+#[submodule "share/wordpress"]
+#	path = share/wordpress
+#	url = https://github.com/dmgudeman/wordpress.git
+#	branch = master
 
 [submodule "share/pomona"]
 	path = share/pomona
