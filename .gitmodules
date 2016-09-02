@@ -9,3 +9,6 @@
 [submodule "share/pomonanation"]
 	path = share/pomonanation
 	url = https://github.com/dmgudeman/pomonanation
+[submodule "share/pomonagroup"]
+	path = share/pomonagroup
+	url = https://github.com/dmgudeman/pomonagroup
