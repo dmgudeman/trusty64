@@ -4,9 +4,3 @@
 [submodule "share/pomonagroup"]
 	path = share/pomonagroup
 	url = https://github.com/dmgudeman/pomonagroup
-[submodule "pomonanation"]
-	path = pomonanation
-	url = https://github.com/dmgudeman/pomonanation
-[submodule "pomonagroup"]
-	path = pomonagroup
-	url = https://github.com/dmgudeman/pomonagroup
